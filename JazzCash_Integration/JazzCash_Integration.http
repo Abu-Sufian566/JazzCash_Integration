@@ -1,0 +1,6 @@
+@JazzCash_Integration_HostAddress = http://localhost:5167
+
+GET {{JazzCash_Integration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
